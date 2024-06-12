@@ -17,4 +17,12 @@ pkg install bs4
 
 Pip install random2
 
+git clone https://github.com/ACT-BD/Facebook-Old-Id-clone
+
+ls
+
+cd Facebook-Old-Id-clone
+
+ls
+
 python3 act.py
