@@ -13,9 +13,7 @@ pkg install git
 
 pkg install bash
 
-pkg install bs4
-
-Pip install random2
+Pip3 install random2
 
 git clone https://github.com/ACT-BD/Facebook-Old-Id-clone
 
